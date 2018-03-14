@@ -19,7 +19,7 @@ Bootstrap 4,
 
 HTML и CSS препроцессоры,
 
-Javascript frameworks ( Angular, React, Vue.js ),
+Javascript frameworks,
 
 Сборщики.
 
